@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BravoD4
+- 👋 Hi, I’m @BravoD
 - 👀 I’m interested in Bussiness Inteligence and Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on BI projects and Data Engineering
